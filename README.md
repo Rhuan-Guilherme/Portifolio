@@ -6,7 +6,7 @@ Bem-vindo ao repositório do meu portfólio! Este projeto esta sendo desenvolvid
 
 - [React](https://react.dev/) Um framework JavaScript para criar interfaces de usuário.
 - [Vite](https://github.com/vitejs/vite-plugin-react-swc) Um build tool extremamente rápido para desenvolvimento moderno de front-end.
-- [Tailwind CSS](https://tailwindcss.com/)
+- [Tailwind CSS](https://tailwindcss.com/) Um framework CSS utilitário para estilização rápida e eficiente.
 
 ## Plugins Oficiais Utilizados
 
@@ -42,7 +42,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
    ```
 
 4. **Acesse no navegador**:
-   Abra o navegador e vá para `http://localhost:3000` para ver o projeto em execução.
+   Abra o navegador e vá para `http://localhost:5173` para ver o projeto em execução.
 
 ## Licença
 
